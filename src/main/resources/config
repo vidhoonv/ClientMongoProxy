@@ -1,0 +1,5 @@
+AccEndpoint=vishitest-northeurope.documents-test.windows-int.net
+MongoPort=10255
+ProxyPort=10995
+MaxNumberofCursors=1000
+CursorExpiryAgeInMins=30
